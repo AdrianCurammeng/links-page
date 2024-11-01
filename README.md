@@ -32,6 +32,7 @@ Some reference/inspirations I used for the design of this README file and the de
 
 ## Resources
 
+[![Shields](https://img.shields.io/badge/-shields.io-97ca00?logo=shields.io)](https://shields.io)
 [![Linktree](https://img.shields.io/badge/-linktr.ee-254f1a?logo=linktree)](https://linktr.ee/)
 [![TailwindCSS](https://img.shields.io/badge/-tailwindcss.com-0b1120?logo=tailwindcss)](https://tailwindcss.com/)
 [![npm](https://img.shields.io/badge/-npmjs.com-bf332b?logo=npm)](https://www.npmjs.com/)
