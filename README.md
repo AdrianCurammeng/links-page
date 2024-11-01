@@ -10,6 +10,12 @@
 
 This is an open-source project that is a Linktree-like personal link hosting site in ReactJS and Tailwind CSS.
 
+## Features
+
+This website allows users to edit a JSON file to add/remove their links to the website.
+![JSON_Example](/imgs/json_example.jpg)
+> You can store all of your links in this JSON file and it will be rendered on the website!
+
 ## Project Learning Goals
 
 This project was created for three main reasons:
