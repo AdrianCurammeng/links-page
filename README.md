@@ -5,6 +5,7 @@
 ![Author](https://img.shields.io/badge/created_by-Adrian_Curammeng-blue)
 [![License](https://img.shields.io/badge/license-MIT-blue)](https://https://github.com/AdrianCurammeng/links-page/blob/main/LICENSE.md)
 ![Last_Commit](https://img.shields.io/github/last-commit/AdrianCurammeng/links-page?color=blue)
+[![Total_Commits](https://img.shields.io/github/commit-activity/t/AdrianCurammeng/links-page?color=blue&label=total+commits)](https://github.com/AdrianCurammeng/links-page/commits/main)
 
 ## About
 
