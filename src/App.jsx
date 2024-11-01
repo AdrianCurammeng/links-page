@@ -1,18 +1,11 @@
 import Header from './Header.jsx'
-import Link from './Link.jsx'
-import data from './links.json'
+import Content from './Content.jsx'
 
 function App() {
-
-    let a = ['Red', 'Blue', 'Green']
-
     return(
         <>
             <Header/>
-
-            {data.links.map((item, key) => (
-                <Link linkItem={item}></Link>
-            ))}
+            <Content/>
         </>
     );
 }
