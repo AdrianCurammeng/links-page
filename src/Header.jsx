@@ -1,7 +1,7 @@
 function Header() {
     return(
         <>
-            <h1 className="text-white bg-black">Hello World</h1>
+            <h1>Test</h1>
         </>
     );
 }
