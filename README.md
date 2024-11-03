@@ -37,4 +37,5 @@ Some reference/inspirations I used for the design of this README file and the de
 [![TailwindCSS](https://img.shields.io/badge/-tailwindcss.com-0b1120?logo=tailwindcss)](https://tailwindcss.com/)
 [![npm](https://img.shields.io/badge/-npmjs.com-bf332b?logo=npm)](https://www.npmjs.com/)
 [![nodejs](https://img.shields.io/badge/-nodejs.org-white?logo=node.js)](https://nodejs.org/en)
+[![react](https://img.shields.io/badge/-react.dev-23272f?logo=react)](https://react.dev/)
 [![vite](https://img.shields.io/badge/-vite.dev-111112?logo=vite)](https://vite.dev/)
