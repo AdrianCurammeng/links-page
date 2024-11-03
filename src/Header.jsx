@@ -1,6 +1,8 @@
 function Header() {
     return(
-        <h1>My Website!</h1>
+        <>
+            <h1 className="text-white bg-black">Hello World</h1>
+        </>
     );
 }
 
