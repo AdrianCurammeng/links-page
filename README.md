@@ -18,15 +18,9 @@ This website allows users to edit a JSON file to add/remove their links to the w
 {
     "links": [
         {
-            // Button Label/Name 
-            "name": "Github Profile",
-
-            // Website Link
-            "link": "https://github.com/AdrianCurammeng",   
-
-            // Simpleicons slug name, leave blank ("") 
-            // if  not available
-            "icon": "github"
+            "name": "Github Profile (Button Name/Label)",
+            "link": "https://github.com/AdrianCurammeng (Website Link)",   
+            "icon": "github (Simpleicons slug name, leave blank [""] if not available)"
         }, 
         { ... }
     ]
