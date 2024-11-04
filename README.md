@@ -22,7 +22,7 @@ This website allows users to edit a JSON file to add/remove their links to the w
             "link": "https://github.com/AdrianCurammeng (Website Link)",   
             "icon": "github (Simpleicons slug name, leave blank [""] if not available)"
         }, 
-        { ... }
+        {}, 
     ]
 }
 ```
