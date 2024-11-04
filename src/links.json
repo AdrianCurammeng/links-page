@@ -2,11 +2,18 @@
     "links": [
         {
             "name": "GitHub", 
-            "link": "http://github.com/AdrianCurammeng"
+            "link": "http://github.com/AdrianCurammeng", 
+            "icon": "github"
         }, 
         {
             "name": "Spotify Playlist", 
-            "link": "https://open.spotify.com/playlist/1ToAF0YnwoE5SptbQcmykm?si=0EkJ7TmhSIydIxUlu4efEg&pi=cIJy6Xk1TtS5O" 
+            "link": "https://open.spotify.com/playlist/1ToAF0YnwoE5SptbQcmykm?si=0EkJ7TmhSIydIxUlu4efEg&pi=cIJy6Xk1TtS5O", 
+            "icon": "spotify"
+        }, 
+        {
+            "name": "No icon example...", 
+            "link": "", 
+            "icon": ""
         }
     ]
 }
