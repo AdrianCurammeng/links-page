@@ -4,7 +4,7 @@ function Link({ linkItem }) {
     return(
         <>
             <div className="w-full h-full bg-green-500 my-2">
-                <a className="flex flex-row justify-between h-full w-full p-6" href={linkItem.link}>
+                <a className="flex flex-row justify-between h-full w-full p-6" href={linkItem.link} target="_blank">
                     <p>Icon</p>
                     <p>{linkItem.name}</p>
                     <p>Icon</p>
