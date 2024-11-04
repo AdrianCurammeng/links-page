@@ -13,8 +13,25 @@ This is an open-source project that is a Linktree-like personal link hosting sit
 
 ## Features
 
-This website allows users to edit a JSON file to add/remove their links to the website.
-![JSON_Example](/imgs/json_example.jpg)
+This website allows users to edit a JSON file to add/remove their links to the website:
+```json
+{
+    "links": [
+        {
+            // Button Label/Name 
+            "name": "Github Profile",
+
+            // Website Link
+            "link": "https://github.com/AdrianCurammeng",   
+
+            // Simpleicons slug name, leave blank ("") 
+            // if  not available
+            "icon": "github"
+        }, 
+        { ... }
+    ]
+}
+```
 > You can store all of your links in this JSON file and it will be rendered on the website!
 
 ## Project Learning Goals
